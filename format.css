@@ -1,0 +1,39 @@
+.intro {
+
+    font-family:'Times New Roman', Times, serif;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    line-height: 1.6;
+    padding: 10px;
+    font-size: 12pt;
+    
+  }
+
+.quoteBoard {
+    /* border: 2px solid black;
+    border-radius: 5px; */
+    line-height: 2;
+    font-size: 12pt;
+}
+
+.noneBull {
+    list-style-type: none;
+    line-height: 1.5;
+}
+
+.noLineLink {
+    text-decoration: none;
+}
+
+a:link {
+    color: dimgray;
+    text-decoration: underline;
+}
+
+a:visited { 
+    text-decoration: underline;
+    color: dimgray;
+   }
